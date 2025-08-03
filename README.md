@@ -1,4 +1,4 @@
-# Gradient Generator
+# 🎨 Gradient Generator
 
 ### Refer to the image below:
 
